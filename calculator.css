@@ -1,0 +1,30 @@
+.calculator-button{
+    width: 60px;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    font-size: 26px;
+    color: white;
+    background-color: rgb(47, 47, 47);
+    cursor: pointer;
+}
+.action-button{
+    width: 60px;
+    height: 60px;
+    border: none;
+    border-radius: 30px;
+    font-size: 26px;
+    color: white;
+    background-color: rgb(255, 171, 15);
+    cursor: pointer;
+}
+.display{
+    color: white;
+    font-size: 30px;
+}
+body{
+    background-color: black;
+}
+div{
+    margin-top: 25px;
+}
